@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "761fb3dea5741729",
+    "type": "split",
+    "children": [
+      {
+        "id": "e14c1cbf795031f9",
+        "type": "split",
+        "children": [
+          {
+            "id": "0f9b58fbf0871255",
+            "type": "leaf",
+            "dimension": 56.70731707317073,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF/CH05_The Business of Security.pdf"
+              }
+            }
+          },
+          {
+            "id": "30447234f6b7410f",
+            "type": "split",
+            "dimension": 43.292682926829265,
+            "children": [
+              {
+                "id": "28250418844c0d3a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MD/The Bussiness of Security.md",
+                    "mode": "preview"
+                  }
+                }
+              },
+              {
+                "id": "564dc2b2e5bf9fd0",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "PIC/Pasted image 20211218113444 1.png"
+                  }
+                }
+              },
+              {
+                "id": "144f4fe857739899",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "PIC/Pasted image 20211218113444.png"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ee4c01ab7611a0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "81999c8156228379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef8e680702fc871",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3258ebfc9102be8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48c7c50c7a0fb95a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461
+  },
+  "right": {
+    "id": "7611044742d7badb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c53f8c41751490e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e17efe622ac2bfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PIC/Pasted image 20211218113444.png",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e619618f85ed4b7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 136.40000915527344
+  },
+  "active": "144f4fe857739899",
+  "lastOpenFiles": [
+    "Pasted image 20211218113444.png",
+    "Pasted image 20211218113444 1.png",
+    "Selecting the Team.md",
+    "Building the Plan.md",
+    "MP4.md",
+    "MD/The Bussiness of Security.md",
+    "Maintaining the Plan - DRP.md",
+    "PDF/CH05_The Business of Security.pdf",
+    "未命名.md",
+    "MD/Maintaining the Plan - BCP.md"
+  ]
+}
