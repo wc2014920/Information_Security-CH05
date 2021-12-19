@@ -35,22 +35,13 @@
                 }
               },
               {
-                "id": "564dc2b2e5bf9fd0",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "PIC/Pasted image 20211218113444 1.png"
-                  }
-                }
-              },
-              {
                 "id": "144f4fe857739899",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
+                  "type": "markdown",
                   "state": {
-                    "file": "PIC/Pasted image 20211218113444.png"
+                    "file": "MD/The Bussiness of Security.md",
+                    "mode": "source"
                   }
                 }
               }
@@ -106,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461
+    "width": 162
   },
   "right": {
     "id": "7611044742d7badb",
@@ -122,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PIC/Pasted image 20211218113444.png",
+                "file": "MD/The Bussiness of Security.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,24 +132,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 136.40000915527344
+    "width": 322.3999938964844
   },
-  "active": "144f4fe857739899",
+  "active": "28250418844c0d3a",
   "lastOpenFiles": [
+    "MD/The Bussiness of Security.md",
+    "MD/Disaster Recovery Planning 1.md",
     "Pasted image 20211218113444.png",
     "Pasted image 20211218113444 1.png",
     "Selecting the Team.md",
     "Building the Plan.md",
     "MP4.md",
-    "MD/The Bussiness of Security.md",
     "Maintaining the Plan - DRP.md",
     "PDF/CH05_The Business of Security.pdf",
-    "未命名.md",
-    "MD/Maintaining the Plan - BCP.md"
+    "未命名.md"
   ]
 }
