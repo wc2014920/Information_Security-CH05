@@ -33,12 +33,21 @@
           {
             "id": "28250418844c0d3a",
             "type": "leaf",
-            "dimension": 24.390243902439025,
+            "dimension": 12.195121951219512,
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4eb1937c0b113b07",
+            "type": "leaf",
+            "dimension": 12.195121951219512,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MD/Implementing the Plan.md",
-                "mode": "preview"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source"
               }
             }
           }
@@ -107,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD/Implementing the Plan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,8 +141,9 @@
     "direction": "horizontal",
     "width": 322.3999938964844
   },
-  "active": "28250418844c0d3a",
+  "active": "4eb1937c0b113b07",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "MD/Implementing the Plan.md",
     "MD/The Bussiness of Security.md",
     "MD/Testing 1.md",
@@ -142,7 +152,6 @@
     "MD/Building the Plan.md",
     "MD/Disaster Recovery Planning 1.md",
     "Pasted image 20211218113444.png",
-    "Pasted image 20211218113444 1.png",
-    "Selecting the Team.md"
+    "Pasted image 20211218113444 1.png"
   ]
 }
