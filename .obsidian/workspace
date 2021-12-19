@@ -7,8 +7,11 @@
         "id": "144f4fe857739899",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The Bussiness of Security.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Bussiness of Security.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,6 +104,7 @@
   },
   "active": "144f4fe857739899",
   "lastOpenFiles": [
+    "The Bussiness of Security.md",
     "PIC/Pasted image 20211218113444 1.png",
     "PIC/Pasted image 20211218113444.png",
     "Monitoring.md",
@@ -108,7 +113,6 @@
     "MD/Testing.md",
     "MD/Training.md",
     "MD/Maintaining the Plan - DRP.md",
-    "MD/Creative Disaster Recovery.md",
-    "MD/Disaster Recovery Facilities.md"
+    "MD/Creative Disaster Recovery.md"
   ]
 }
