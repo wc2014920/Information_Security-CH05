@@ -10,14 +10,14 @@
 >	因為會有未規劃到應該處理的部分，
 >	而造成BCP無法應付的情況產生，失去BCP應有的作用
 >	因此，就會需要另一個計畫
->	- [[Disaster Recovery Planning 1|DRP - 災難復原計畫]] :
->	$\quad$$\quad$- [[Selecting the Team 1]]
->	$\quad$$\quad$- [[Building the Plan 1]]
->	$\quad$$\quad$- [[Disaster Recovery Facilities 1]]
->	$\quad$$\quad$- [[Creative Disaster Recovery 1]]
->	$\quad$$\quad$- [[Training 1]]
->	$\quad$$\quad$- [[Testing 1]]
->	$\quad$$\quad$- [[Implementing the Plan 1]]
+>	- [[Disaster Recovery Planning|DRP - 災難復原計畫]] :
+>	$\quad$$\quad$- [[Selecting the Team]]
+>	$\quad$$\quad$- [[Building the Plan]]
+>	$\quad$$\quad$- [[Disaster Recovery Facilities]]
+>	$\quad$$\quad$- [[Creative Disaster Recovery]]
+>	$\quad$$\quad$- [[Training]]
+>	$\quad$$\quad$- [[Testing]]
+>	$\quad$$\quad$- [[Implementing the Plan]]
 >	$\quad$$\quad$- [[Maintaining the Plan - DRP|Maintaining the Plan -規劃的維護]]
 ## else
 
