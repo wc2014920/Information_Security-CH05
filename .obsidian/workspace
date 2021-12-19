@@ -10,7 +10,7 @@
           {
             "id": "0f9b58fbf0871255",
             "type": "leaf",
-            "dimension": 56.42701525054467,
+            "dimension": 25.121951219512194,
             "state": {
               "type": "pdf",
               "state": {
@@ -21,7 +21,7 @@
           {
             "id": "05f0597f9d98da1e",
             "type": "split",
-            "dimension": 43.57298474945534,
+            "dimension": 74.8780487804878,
             "children": [
               {
                 "id": "144f4fe857739899",
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Computer Security Law.md",
+                    "file": "MD/Maintaining the Plan - DRP.md",
                     "mode": "source"
                   }
                 }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD/The Bussiness of Security.md",
+                "file": "MD/Maintaining the Plan - DRP.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,17 +139,17 @@
     "direction": "horizontal",
     "width": 184
   },
-  "active": "144f4fe857739899",
+  "active": "1f0f6f0ef4fa00b2",
   "lastOpenFiles": [
+    "MD/Maintaining the Plan - DRP.md",
+    "MD/Implementing the Plan.md",
+    "MD/Testing.md",
+    "MD/Training.md",
+    "MD/Creative Disaster Recovery.md",
+    "MD/Disaster Recovery Facilities.md",
+    "MD/Building the Plan.md",
     "MD/The Bussiness of Security.md",
-    "Computer Security Law.md",
-    "Monitoring.md",
-    "MD/Security Ethics.md",
-    "MD/README.md",
-    "Security Ethics.md",
-    "Classification Systems.md",
-    "PDF/CH05_The Business of Security.pdf",
-    "Data Classification.md",
-    "Need to Know.md"
+    "MD/Selecting the Team.md",
+    "MD/Disaster Recovery Planning.md"
   ]
 }
