@@ -10,7 +10,7 @@
           {
             "id": "0f9b58fbf0871255",
             "type": "leaf",
-            "dimension": 37.80487804878049,
+            "dimension": 22.701475595913735,
             "state": {
               "type": "pdf",
               "state": {
@@ -21,7 +21,7 @@
           {
             "id": "144f4fe857739899",
             "type": "leaf",
-            "dimension": 37.80487804878049,
+            "dimension": 22.701475595913735,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,7 +33,7 @@
           {
             "id": "28250418844c0d3a",
             "type": "leaf",
-            "dimension": 12.195121951219512,
+            "dimension": 22.701475595913735,
             "state": {
               "type": "empty",
               "state": {}
@@ -42,13 +42,10 @@
           {
             "id": "4eb1937c0b113b07",
             "type": "leaf",
-            "dimension": 12.195121951219512,
+            "dimension": 31.8955732122588,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -116,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +137,7 @@
     "direction": "horizontal",
     "width": 322.3999938964844
   },
-  "active": "4eb1937c0b113b07",
+  "active": "28250418844c0d3a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "MD/Implementing the Plan.md",
