@@ -19,11 +19,13 @@
 >	$\quad$- [[Testing]]
 >	$\quad$- [[Implementing the Plan]]
 >	$\quad$- [[Maintaining the Plan - DRP|Maintaining the Plan -規劃的維護]]
-## 
+## 資料存取安全
 >- [[Data Classification|Data Classification - 資料分類]]
 >$\quad$- [[Security Clearances]]
 >$\quad$- [[Need to Know]]
->- [[Classification Systems]]
+>$\quad$- [[Classification Systems]]
+
+## 其他
 >- [[Security Ethics]]
 >- [[Monitoring]]
 >- [[Computer Security Law]]

@@ -8,15 +8,30 @@
         "type": "split",
         "children": [
           {
-            "id": "0f9b58fbf0871255",
-            "type": "leaf",
+            "id": "451938903df0ecc5",
+            "type": "split",
             "dimension": 56.42701525054467,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/CH05_The Business of Security.pdf"
+            "children": [
+              {
+                "id": "0f9b58fbf0871255",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "PDF/CH05_The Business of Security.pdf"
+                  }
+                }
+              },
+              {
+                "id": "d7e8fa5808b089e9",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
             "id": "05f0597f9d98da1e",
@@ -113,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD/The Bussiness of Security.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,8 +153,9 @@
     "direction": "horizontal",
     "width": 322.3999938964844
   },
-  "active": "1f0f6f0ef4fa00b2",
+  "active": "d7e8fa5808b089e9",
   "lastOpenFiles": [
+    "PDF/CH05_The Business of Security.pdf",
     "MD/The Bussiness of Security.md",
     "Security Ethics.md",
     "Classification Systems.md",
@@ -149,7 +164,6 @@
     "Security Clearances.md",
     "MD/Maintaining the Plan - BCP.md",
     "MD/Implementing Controls.md",
-    "MD/象限图.md",
-    "MD/Maintaining the Plan - DRP.md"
+    "MD/象限图.md"
   ]
 }
