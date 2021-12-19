@@ -31,4 +31,25 @@
 >- [[Computer Security Law]]
 
 ## 總結
-> -1
+- 安全專業人員必須在其組織的資源和業務目標的範圍內工作，以構建安全業務案例
+- 業務連續性計劃 (BCP) 是一份**活文件**，用於確保組織在面臨風險時仍能正常運作
+- 開發 BCP 需要[[象限图|弱點評估]]、[[Implementing Controls|控制實施]]和[[Maintaining the Plan - BCP|計劃維護]]
+- 災難恢復計劃 (DRP) 負責在某些事件中斷組織的正常運營時保持業務正常運行
+- DRP 需要
+	- 可以移動操作的替代設施
+	- 一組訓練有素的人員可以促進搬家
+	- 完成過渡的最新計劃
+	- 持續的維護、培訓和測試
+	- Security professionals must work within the limits of the resources and business objectives of their organization to build a business case for security
+- A Business Continuity Plan (BCP) is a document that deals with keeping a organization functioning in the face of risk
+- Developing a BCP requires vulnerability assessment, control implementation, and plan maintenance
+- A Disaster Recovery Plan (DRP) deals with keeping a business functioning when some event interrupts the organization’s normal operations
+- A DRP requires
+	- An alternate facility where operations can be moved
+	- A team of trained individuals who can facilitate the move
+	- An up-to-date plan for accomplishing the transition
+	- Ongoing maintenance, training, and testing
+- In organizations with sensitive information, data classification systems are often used
+	- Individuals require security clearance and need to know to access classified data
+- Security professionals may have access to highly confidential information and must exhibit ethical behavior
+- Information security and privacy is subject to a number of laws and regulations – Security professionals must be aware of responsibilities and obligations under these laws
