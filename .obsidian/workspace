@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Classification.md",
-                "mode": "source"
+                "file": "Security Clearances.md",
+                "mode": "preview"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Classification.md",
+                "file": "Security Clearances.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "144f4fe857739899",
   "lastOpenFiles": [
-    "Data Classification.md",
-    "Need to Know.md",
     "Security Clearances.md",
+    "Data Classification.md",
     "MD/The Bussiness of Security.md",
+    "MD/Maintaining the Plan - BCP.md",
+    "MD/Implementing Controls.md",
+    "MD/象限图.md",
+    "Need to Know.md",
     "MD/Maintaining the Plan - DRP.md",
     "MD/Implementing the Plan.md",
-    "MD/Implementing Controls.md",
-    "MD/Maintaining the Plan - BCP.md",
-    "MD/Testing.md",
-    "MD/Training.md"
+    "MD/Testing.md"
   ]
 }
