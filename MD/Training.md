@@ -1,4 +1,4 @@
-## 上一張 : [[Creative Disaster Recovery 1]]
+## 上一張 : [[Creative Disaster Recovery]]
 # 訓練
 - DRP 團隊成員需要接受培訓，為計劃下的職責做好準備
 - **初步培訓**
@@ -13,4 +13,4 @@
 | 長度 |        長        |         -          |            -             |
 | 頻率 |       1次        |         -          |            -             | 
 
-## 下一張 : [[Testing 1]]
+## 下一張 : [[Testing]]

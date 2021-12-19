@@ -1,4 +1,4 @@
-## 上一張 : [[Implementing the Plan 1]]
+## 上一張 : [[Implementing the Plan]]
 # 規劃的維護
 - 災難恢復團隊的成員、程序和工具**會隨著時間的推移而變化**
 - 團隊應該**高度依賴 Checklist** 以**`避免恐慌和混亂`**

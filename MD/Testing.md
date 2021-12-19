@@ -1,4 +1,4 @@
-## 上一張 : [[Training 1]]
+## 上一張 : [[Training]]
 # 測試
 目的 : 驗證 DRP 的 **有效性** & **信任程度**
 - **`Checklist review`**
@@ -32,4 +32,4 @@
 | 考題表示方式(時機) |    DRP責任表單    | 可在測試/提前時公告 |                      -                       |                      -                       |
 | 成本               |        低         |         高          |         高，相對於Tabletop exercise          |                     最高                     |
 
-## 下一張 : [[Implementing the Plan 1]]
+## 下一張 : [[Implementing the Plan]]

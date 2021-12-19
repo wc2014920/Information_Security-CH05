@@ -1,4 +1,4 @@
-## 上一張 : [[Disaster Recovery Planning 1]]
+## 上一張 : [[Disaster Recovery Planning]]
 # 團隊成員選擇
 ## 誰應該加入 DRP team ?
 1. **`涵蓋`**組織內的 **`關鍵部門`** 和 **`任務`** 很重要
@@ -7,4 +7,4 @@
 2. 在更大的組織中，規劃和實施團隊可能不同
 3. DRP 職責通常**次於**團隊成員在組織內的**主要角色**
 
-## 下一張 : [[Building the Plan 1]]
+## 下一張 : [[Building the Plan]]

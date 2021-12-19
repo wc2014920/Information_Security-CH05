@@ -1,4 +1,4 @@
-## 上一張 : [[Selecting the Team 1]]
+## 上一張 : [[Selecting the Team]]
 # 建立計畫
 - DRP 應**`描述`**發生災難時要遵循的**`流程`**
 	- 應**詳細說明**參與計劃的**`所有個人的責任`**
@@ -6,4 +6,4 @@
 - **`選擇至少一個備用設施`**是一項**主要挑戰**
 	- 所需的**能力越大**，**成本就越高**
 
-## 下一張 : [[Disaster Recovery Facilities 1]]
+## 下一張 : [[Disaster Recovery Facilities]]

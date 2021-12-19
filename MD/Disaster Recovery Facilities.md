@@ -1,4 +1,4 @@
-## 上一張 : [[Building the Plan 1]]
+## 上一張 : [[Building the Plan]]
 # 災難復原設施
 - ==Hot== Site
 	- 包含所需的所有硬體、軟體和數據 ( 隨時都在備份 )
@@ -19,4 +19,4 @@
 | 轉換時間 |      快       |      中      |             慢             |
 |          |    (立即)     | (數時或數天) |        (數週或數月)        |
 
-## 下一張 : [[Creative Disaster Recovery 1]]
+## 下一張 : [[Creative Disaster Recovery]]
