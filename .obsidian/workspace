@@ -26,6 +26,7 @@
               {
                 "id": "144f4fe857739899",
                 "type": "leaf",
+                "dimension": 74.56395348837209,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -37,10 +38,11 @@
               {
                 "id": "1f0f6f0ef4fa00b2",
                 "type": "leaf",
+                "dimension": 25.436046511627907,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MD/Maintaining the Plan - DRP.md",
+                    "file": "MD/Creative Disaster Recovery.md",
                     "mode": "source"
                   }
                 }
@@ -97,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291
+    "width": 291,
+    "collapsed": true
   },
   "right": {
     "id": "7611044742d7badb",
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD/Maintaining the Plan - DRP.md",
+                "file": "MD/The Bussiness of Security.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,18 +140,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 184
+    "width": 184,
+    "collapsed": true
   },
-  "active": "1f0f6f0ef4fa00b2",
+  "active": "144f4fe857739899",
   "lastOpenFiles": [
-    "MD/Maintaining the Plan - DRP.md",
-    "MD/Implementing the Plan.md",
-    "MD/Testing.md",
-    "MD/Training.md",
+    "MD/The Bussiness of Security.md",
     "MD/Creative Disaster Recovery.md",
+    "MD/Training.md",
+    "MD/Testing.md",
+    "MD/Implementing the Plan.md",
+    "MD/Maintaining the Plan - DRP.md",
     "MD/Disaster Recovery Facilities.md",
     "MD/Building the Plan.md",
-    "MD/The Bussiness of Security.md",
     "MD/Selecting the Team.md",
     "MD/Disaster Recovery Planning.md"
   ]

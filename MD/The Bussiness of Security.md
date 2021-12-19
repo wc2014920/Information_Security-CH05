@@ -44,19 +44,5 @@
 - 在具有敏感信息的組織中，經常使用數據分類系統 - [[Data Classification]]
 	- 個人需要 Security Clearance 及 Need to know 訪問機密數據 - [[Classification Systems]]
 - 安全專業人員可能**可以訪問高度機密的信息**，並且必須表現出**道德行為** - [[Security Ethics]]
-- 信息安全和隱私受**多項法律法規約束**
-	- 安全專業人員**必須了解這些法律規定的責任和義務** - [[Computer Security Law]]
-- Security professionals must work within the limits of the resources and business objectives of their organization to build a business case for security
-- A Business Continuity Plan (BCP) is a document that deals with keeping a organization functioning in the face of risk
-- Developing a BCP requires vulnerability assessment, control implementation, and plan maintenance
-- A Disaster Recovery Plan (DRP) deals with keeping a business functioning when some event interrupts the organization’s normal operations
-- A DRP requires
-	- An alternate facility where operations can be moved
-	- A team of trained individuals who can facilitate the move
-	- An up-to-date plan for accomplishing the transition
-	- Ongoing maintenance, training, and testing
-- In organizations with sensitive information, data classification systems are often used
-	- Individuals require security clearance and need to know to access classified data
-- Security professionals may have access to highly confidential information and must exhibit ethical behavior
-- Information security and privacy is subject to a number of laws and regulations
-	- Security professionals must be aware of responsibilities and obligations under these laws
+- 信息安全和隱私受**多項法律法規約束** - [[Computer Security Law]]
+	- 安全專業人員**必須了解這些法律規定的責任和義務**
