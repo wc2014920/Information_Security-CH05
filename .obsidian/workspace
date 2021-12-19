@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MD/Security Ethics.md",
+                    "file": "README.md",
                     "mode": "source"
                   }
                 }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD/Security Ethics.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   },
   "active": "144f4fe857739899",
   "lastOpenFiles": [
+    "MD/README.md",
     "Security Ethics.md",
     "Classification Systems.md",
     "PDF/CH05_The Business of Security.pdf",
@@ -149,7 +150,6 @@
     "Need to Know.md",
     "Security Clearances.md",
     "MD/Maintaining the Plan - BCP.md",
-    "MD/Implementing Controls.md",
-    "MD/象限图.md"
+    "MD/Implementing Controls.md"
   ]
 }
