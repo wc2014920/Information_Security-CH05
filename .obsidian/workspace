@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "Monitoring.md",
                     "mode": "source"
                   }
                 }
@@ -40,8 +40,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MD/The Bussiness of Security.md",
-                    "mode": "source"
+                    "file": "MD/Security Ethics.md",
+                    "mode": "preview"
                   }
                 }
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Monitoring.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,19 +137,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.3999938964844
+    "width": 184
   },
   "active": "144f4fe857739899",
   "lastOpenFiles": [
+    "Monitoring.md",
+    "MD/Security Ethics.md",
+    "MD/The Bussiness of Security.md",
     "MD/README.md",
     "Security Ethics.md",
     "Classification Systems.md",
     "PDF/CH05_The Business of Security.pdf",
-    "MD/The Bussiness of Security.md",
     "Data Classification.md",
     "Need to Know.md",
-    "Security Clearances.md",
-    "MD/Maintaining the Plan - BCP.md",
-    "MD/Implementing Controls.md"
+    "Security Clearances.md"
   ]
 }
