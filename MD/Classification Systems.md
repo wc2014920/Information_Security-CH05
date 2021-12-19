@@ -13,7 +13,7 @@
 	- Company Confidential/Proprietary, 中翻譯 : 公司機密/專有
 	- Unclassified
 	- **Trade Secret 通常不受專利或版權保護**
-		- 因此，員工必須了解 **保密協議** 的 **法律義務**
+		- 因此，員工必須了解 **不披露信息的法律義務**
 
 
 

@@ -8,30 +8,15 @@
         "type": "split",
         "children": [
           {
-            "id": "451938903df0ecc5",
-            "type": "split",
+            "id": "0f9b58fbf0871255",
+            "type": "leaf",
             "dimension": 56.42701525054467,
-            "children": [
-              {
-                "id": "0f9b58fbf0871255",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "PDF/CH05_The Business of Security.pdf"
-                  }
-                }
-              },
-              {
-                "id": "d7e8fa5808b089e9",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF/CH05_The Business of Security.pdf"
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
             "id": "05f0597f9d98da1e",
@@ -44,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Security Ethics.md",
+                    "file": "MD/Security Ethics.md",
                     "mode": "source"
                   }
                 }
@@ -128,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MD/Security Ethics.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,12 +139,12 @@
     "direction": "horizontal",
     "width": 322.3999938964844
   },
-  "active": "d7e8fa5808b089e9",
+  "active": "144f4fe857739899",
   "lastOpenFiles": [
-    "PDF/CH05_The Business of Security.pdf",
-    "MD/The Bussiness of Security.md",
     "Security Ethics.md",
     "Classification Systems.md",
+    "PDF/CH05_The Business of Security.pdf",
+    "MD/The Bussiness of Security.md",
     "Data Classification.md",
     "Need to Know.md",
     "Security Clearances.md",
