@@ -31,16 +31,16 @@
 >- [[Computer Security Law]]
 
 ## 總結
-- 安全專業人員必須在其組織的資源和業務目標的範圍內工作，以構建安全業務案例
-- 業務連續性計劃 (BCP) 是一份**活文件**，用於確保組織在面臨風險時仍能正常運作
+- 安全專業人員必須在其組織的資源和業務目標的範圍內工作，以構建安全業務案例 - [[Building a Business Case]]
+- 業務連續性計劃 (BCP) 是一份**活文件**，用於確保組織在面臨風險時仍能正常運作 - [[Business Continuity Planning]]
 - 開發 BCP 需要[[象限图|弱點評估]]、[[Implementing Controls|控制實施]]和[[Maintaining the Plan - BCP|計劃維護]]
 - 災難恢復計劃 (DRP) 負責在某些事件中斷組織的正常運營時保持業務正常運行 - [[Disaster Recovery Planning]]
 - DRP 需要
-	- 可以移動操作的替代設施 - [[Creative Disaster Recovery]]
+	- 可以移動操作的替代設施 - [[Creative Disaster Recovery|Creative Disaster Recovery-1.]]
 	- 一組訓練有素的人員 - [[Selecting the Team]]
 		- 可以促進搬家??
 	- 完成過渡的最新計劃 - [[Building the Plan|Building the Plan~Disaster Recovery Facilities]]
-	- 持續的維護、培訓和測試- [[Maintaining the Plan - DRP]]
+	- 持續的維護、培訓和測試- [[Training|Training~Maintaining the Plan - DRP]]
 - 在具有敏感信息的組織中，經常使用數據分類系統 - [[Data Classification]]
 	- 個人需要 Security Clearance 及 Need to know 訪問機密數據 - [[Classification Systems]]
 - 安全專業人員可能**可以訪問高度機密的信息**，並且必須表現出**道德行為** - [[Security Ethics]]

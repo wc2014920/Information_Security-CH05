@@ -4,54 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e14c1cbf795031f9",
-        "type": "split",
-        "children": [
-          {
-            "id": "0f9b58fbf0871255",
-            "type": "leaf",
-            "dimension": 25.121951219512194,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/CH05_The Business of Security.pdf"
-              }
-            }
-          },
-          {
-            "id": "05f0597f9d98da1e",
-            "type": "split",
-            "dimension": 74.8780487804878,
-            "children": [
-              {
-                "id": "144f4fe857739899",
-                "type": "leaf",
-                "dimension": 74.56395348837209,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MD/The Bussiness of Security.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "1f0f6f0ef4fa00b2",
-                "type": "leaf",
-                "dimension": 25.436046511627907,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MD/Creative Disaster Recovery.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          }
-        ],
-        "direction": "horizontal"
+        "id": "144f4fe857739899",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -99,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291,
-    "collapsed": true
+    "width": 291
   },
   "right": {
     "id": "7611044742d7badb",
@@ -116,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MD/The Bussiness of Security.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,15 +100,15 @@
   },
   "active": "144f4fe857739899",
   "lastOpenFiles": [
+    "PIC/Pasted image 20211218113444 1.png",
+    "PIC/Pasted image 20211218113444.png",
+    "Monitoring.md",
     "MD/The Bussiness of Security.md",
-    "MD/Creative Disaster Recovery.md",
-    "MD/Training.md",
-    "MD/Testing.md",
     "MD/Implementing the Plan.md",
+    "MD/Testing.md",
+    "MD/Training.md",
     "MD/Maintaining the Plan - DRP.md",
-    "MD/Disaster Recovery Facilities.md",
-    "MD/Building the Plan.md",
-    "MD/Selecting the Team.md",
-    "MD/Disaster Recovery Planning.md"
+    "MD/Creative Disaster Recovery.md",
+    "MD/Disaster Recovery Facilities.md"
   ]
 }
